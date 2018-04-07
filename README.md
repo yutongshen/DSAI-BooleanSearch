@@ -38,8 +38,7 @@ $ python main.py [-h] [--source SOURCE] [--query QUERY] [--output OUTPUT]
 - If there is one of `arg1` to `arg3` in `self.cache`, then mean cache hit
   > There are list total of related title in cache, so we can avoid search again
 - If there is no argument in `self.cache`, then mean cache miss
-  > We'll choice an argument that `self.queries_distribute[arg]` is the largest <br>
-  > then we'll record total of related title in `self.cache[arg]`
+  > We'll search the whole of dataset
 
 ### Save Result
 - Store result in `output.txt`
