@@ -1,5 +1,5 @@
-# Data Science and Artificial Intelligence Practice Homework
-DSAI HW2-BooleanSearch
+# Data Science and Artificial Intelligence Practice
+DSAI-BooleanSearch
 
 ## Prerequisite
 - Python 3.6.4
